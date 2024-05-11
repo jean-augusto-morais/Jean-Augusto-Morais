@@ -29,7 +29,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 <!-- GithubStats -->
-![Jean-Augusto-Morais GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-Augusto-Morais&show_icons=true&theme=gotham)
+![jean-augusto-morais GitHub stats](https://github-readme-stats.vercel.app/api?username=jean-augusto-morais&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
