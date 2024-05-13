@@ -3,6 +3,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jean-augusto-morais" alt="devded" /> </p>
 
 <!-- Presentation -->
 <p>
