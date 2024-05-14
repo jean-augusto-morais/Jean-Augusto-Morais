@@ -34,10 +34,9 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Exploratory data analysis]()
-- [Google Data Studio - COVID-19 Interactive Dashboard]()
-- [SQL - Querying and analyzing data with AWS Athena]()
-- [C - Registration and query system]()
+- [Python - Some automation projects](https://github.com/jean-augusto-morais/Automation-Projects)
+- [Some Analitycs Projects](https://github.com/jean-augusto-morais/Curso-Projetos)
+
 
 <!-- GIF -->
 <p align="left">
