@@ -24,14 +24,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-augusto-morais)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
-<!-- GithubStats -->
-![jean-augusto-morais GitHub stats](https://github-readme-stats.vercel.app/api?username=jean-augusto-morais&show_icons=true&theme=gotham)
-
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Some automation projects](https://github.com/jean-augusto-morais/Automation-Projects)
+- [Customer Segmentation Supermarket](https://github.com/jean-augusto-morais/Customer-Segmentation/tree/main)
 - [Some Analitycs Projects](https://github.com/jean-augusto-morais/Curso-Projetos)
 
+<!-- GithubStats -->
+![jean-augusto-morais GitHub stats](https://github-readme-stats.vercel.app/api?username=jean-augusto-morais&show_icons=true&theme=gotham)
 
 <!-- GIF -->
 <p align="left">
