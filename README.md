@@ -26,8 +26,10 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Customer Segmentation Supermarket](https://github.com/jean-augusto-morais/Customer-Segmentation/tree/main)
-- [Some Analitycs Projects](https://github.com/jean-augusto-morais/Curso-Projetos)
+- [Ifood case data analyst](https://github.com/jean-augusto-morais/ifood-case-data-analyst)
+- [Fraud project](https://github.com/jean-augusto-morais/Fraud-project)
+- [Customer segmentation supermarket](https://github.com/jean-augusto-morais/Customer-Segmentation/tree/main)
+
 
 <!-- GithubStats -->
 ![jean-augusto-morais GitHub stats](https://github-readme-stats.vercel.app/api?username=jean-augusto-morais&show_icons=true&theme=gotham)
